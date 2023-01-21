@@ -1,0 +1,17 @@
+{
+    "name": "asmthry/php-env",
+    "description": "PHP ENV READ",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asmthry\\PhpEnv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asmthry",
+            "email": "asmthry@gmail.com"
+        }
+    ],
+    "require": {}
+}
